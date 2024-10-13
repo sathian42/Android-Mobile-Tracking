@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "50055433881",
+    "firebase_url": "https://maps-413319-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "maps-413319",
+    "storage_bucket": "maps-413319.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:50055433881:android:b89ab57d425a7905e07208",
+        "android_client_info": {
+          "package_name": "com.example.firebasebasic"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0nDrfFf-YHL23_RzB_gZkYCqDNSCl17E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:50055433881:android:76d6f9b72eb21ebae07208",
+        "android_client_info": {
+          "package_name": "com.example.maps"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0nDrfFf-YHL23_RzB_gZkYCqDNSCl17E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

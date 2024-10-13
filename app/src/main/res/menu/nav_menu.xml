@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+
+
+
+
+    <item
+        android:id="@+id/item1"
+        android:title="enable Location client"/>
+
+    <item
+        android:id="@+id/item2"
+        android:title="Firebase Connect"/>
+
+    <item
+        android:id="@+id/item3"
+        android:title="Synchronize"/>
+    <item
+        android:id="@+id/nav_switch"
+        android:title="Track My Location"
+        app:actionLayout="@layout/switch_item" />
+
+
+</menu>
